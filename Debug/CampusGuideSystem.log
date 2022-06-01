@@ -1,0 +1,21 @@
+﻿  GuideAndSearch.c
+D:\Folds\大二下_数据结构课设\CampusGuideSystem\GuideAndSearch.c(23,21): warning C4013: “getch”未定义；假设外部返回 int
+D:\Folds\大二下_数据结构课设\CampusGuideSystem\GuideAndSearch.c(61,2): warning C4033: “run”必须返回值
+D:\Folds\大二下_数据结构课设\CampusGuideSystem\GuideAndSearch.c(80,57): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+D:\Folds\大二下_数据结构课设\CampusGuideSystem\GuideAndSearch.c(87,31): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+D:\Folds\大二下_数据结构课设\CampusGuideSystem\GuideAndSearch.c(124,45): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\Folds\大二下_数据结构课设\CampusGuideSystem\GuideAndSearch.c(125,45): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\Folds\大二下_数据结构课设\CampusGuideSystem\GuideAndSearch.c(179,45): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\Folds\大二下_数据结构课设\CampusGuideSystem\GuideAndSearch.c(180,45): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\Folds\大二下_数据结构课设\CampusGuideSystem\GuideAndSearch.c(202,45): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\Folds\大二下_数据结构课设\CampusGuideSystem\GuideAndSearch.c(203,45): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\Folds\大二下_数据结构课设\CampusGuideSystem\GuideAndSearch.c(213,30): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+D:\Folds\大二下_数据结构课设\CampusGuideSystem\GuideAndSearch.c(219,57): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+D:\Folds\大二下_数据结构课设\CampusGuideSystem\GuideAndSearch.c(220,32): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+D:\Folds\大二下_数据结构课设\CampusGuideSystem\GuideAndSearch.c(362,25): warning C4101: “path”: 未引用的局部变量
+  Navigation_Strategy.c
+D:\Folds\大二下_数据结构课设\CampusGuideSystem\Navigation_Strategy.c(66,68): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+D:\Folds\大二下_数据结构课设\CampusGuideSystem\Navigation_Strategy.c(101,37): warning C4101: “i”: 未引用的局部变量
+  正在生成代码...
+D:\Folds\大二下_数据结构课设\CampusGuideSystem\GuideAndSearch.c(62): warning C4715: “run”: 不是所有的控件路径都返回值
+  CampusGuideSystem.vcxproj -> D:\Folds\大二下_数据结构课设\CampusGuideSystem\Debug\CampusGuideSystem.exe
